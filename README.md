@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Adapted from Mathias’s dotfiles
 
 ## Installation
 
